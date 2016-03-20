@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="location_button">Location</string>
+    <string name="Flashlight_button">Flashlight</string>
+    <string name="MainMenu_Button">Main Menu</string>
+    <string name="mainmenubutton">Main Menu</string>
+    <string name="flashlightbutton">Flashlight</string>
+    <string name="mainmenu">Main Menu</string>
+</resources>
